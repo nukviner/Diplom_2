@@ -1,1 +1,1 @@
-# Diplom_2
+API автотесты для проверки Stellar Burgers
